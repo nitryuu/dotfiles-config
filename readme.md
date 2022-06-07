@@ -6,3 +6,6 @@
 - Clone this repo
 - Copy profile.ps1 into your $PROFILE
 - Done
+
+## Font
+- [VictorMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/VictorMono.zip)
